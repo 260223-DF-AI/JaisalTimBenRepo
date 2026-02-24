@@ -1,2 +1,2 @@
 "Hello World!"
-"Replace Me!"
+__Is it friday yet?__
